@@ -1,0 +1,3 @@
+chmod 775 sickfuzz.py
+ln -vs /pentest/02/sickfuzz/sickfuzz.py /usr/bin/sickfuzz.py
+ln -vs /pentest/02/sickfuzz/sickfuzz.py /usr/bin/sickfuzz
